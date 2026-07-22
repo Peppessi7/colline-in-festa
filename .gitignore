@@ -1,0 +1,25 @@
+# Dipendenze e output di build
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Variabili locali e segreti
+.env
+.env.*
+!.env.example
+
+# Log
+*.log
+pnpm-debug.log*
+npm-debug.log*
+
+# Editor e sistema operativo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Cache locali
+.cache/
+.local/

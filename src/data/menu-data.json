@@ -1,0 +1,439 @@
+{
+  "stands": [
+    {
+      "id": 1,
+      "name": "Moransengo",
+      "description": ""
+    },
+    {
+      "id": 2,
+      "name": "Lauriano",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "name": "Brusasco",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Piazzo",
+      "description": ""
+    },
+    {
+      "id": 5,
+      "name": "Casalborgone",
+      "description": ""
+    },
+    {
+      "id": 6,
+      "name": "San Sebastiano da Po",
+      "description": ""
+    },
+    {
+      "id": 7,
+      "name": "Cavagnolo",
+      "description": null
+    },
+    {
+      "id": 8,
+      "name": "Verrua Savoia",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "name": "Monteu da Po",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "name": "Castagneto Po",
+      "description": ""
+    },
+    {
+      "id": 11,
+      "name": "Marcorengo",
+      "description": ""
+    }
+  ],
+  "dishes": [
+    {
+      "id": 1,
+      "standId": 1,
+      "name": "Acciughe al verde\t",
+      "category": "antipasto",
+      "tag": null,
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 2,
+      "standId": 1,
+      "name": "Cruda di fassona",
+      "category": "antipasto",
+      "tag": null,
+      "price": 6,
+      "description": null
+    },
+    {
+      "id": 3,
+      "standId": 1,
+      "name": "Bunet di Angelina",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 3.5,
+      "description": ""
+    },
+    {
+      "id": 5,
+      "standId": 2,
+      "name": "Lingua in salsa verde\t",
+      "category": "antipasto",
+      "tag": null,
+      "price": 4.5,
+      "description": null
+    },
+    {
+      "id": 21,
+      "standId": 2,
+      "name": "Tomino alla piastra con speck",
+      "category": "antipasto",
+      "tag": null,
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 22,
+      "standId": 2,
+      "name": "Tris vegano / vegetariano",
+      "category": "antipasto",
+      "tag": "vegetariano",
+      "price": 8.5,
+      "description": ""
+    },
+    {
+      "id": 4,
+      "standId": 2,
+      "name": "Vitello tonnato con salsa antica\t",
+      "category": "antipasto",
+      "tag": null,
+      "price": 5,
+      "description": null
+    },
+    {
+      "id": 24,
+      "standId": 2,
+      "name": "Dolce vegano",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 3.5,
+      "description": ""
+    },
+    {
+      "id": 23,
+      "standId": 2,
+      "name": "Salame di cioccolato ",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 3.5,
+      "description": ""
+    },
+    {
+      "id": 25,
+      "standId": 3,
+      "name": "Brusascotti al limone",
+      "category": "primo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 26,
+      "standId": 3,
+      "name": "Crespelle con fonduta",
+      "category": "primo",
+      "tag": "vegetariano",
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 27,
+      "standId": 3,
+      "name": "Fritto di pesce ",
+      "category": "secondo",
+      "tag": null,
+      "price": 10,
+      "description": ""
+    },
+    {
+      "id": 28,
+      "standId": 3,
+      "name": "Tortantonio di Brusasco",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 29,
+      "standId": 4,
+      "name": "Insalata di fagioli",
+      "category": "antipasto",
+      "tag": "vegetariano",
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 31,
+      "standId": 4,
+      "name": "Piatto del contadino: gorgonzola, acciughe al verde, porchetta e pane",
+      "category": "antipasto",
+      "tag": null,
+      "price": 8,
+      "description": ""
+    },
+    {
+      "id": 30,
+      "standId": 4,
+      "name": "Sticks di polenta con salse",
+      "category": "antipasto",
+      "tag": "vegetariano",
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 32,
+      "standId": 4,
+      "name": "Torta nocciomela",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 35,
+      "standId": 5,
+      "name": "Fritto misto dolce",
+      "category": "secondo",
+      "tag": "vegetariano",
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 33,
+      "standId": 5,
+      "name": "Fritto misto piemontese",
+      "category": "secondo",
+      "tag": null,
+      "price": 13,
+      "description": ""
+    },
+    {
+      "id": 34,
+      "standId": 5,
+      "name": "Fritto misto salato",
+      "category": "secondo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 36,
+      "standId": 6,
+      "name": "Tomino e lonzino con le mele",
+      "category": "antipasto",
+      "tag": null,
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 37,
+      "standId": 6,
+      "name": "Tagliatelle al ragù di cinghiale",
+      "category": "primo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 38,
+      "standId": 6,
+      "name": "Friceu",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 41,
+      "standId": 7,
+      "name": "Insalata verde e pomodoro",
+      "category": "antipasto",
+      "tag": "vegetariano",
+      "price": 3,
+      "description": ""
+    },
+    {
+      "id": 39,
+      "standId": 7,
+      "name": "Costine alla griglia",
+      "category": "secondo",
+      "tag": null,
+      "price": 8,
+      "description": ""
+    },
+    {
+      "id": 40,
+      "standId": 7,
+      "name": "Due spiedini di carne bianca",
+      "category": "secondo",
+      "tag": null,
+      "price": 8,
+      "description": ""
+    },
+    {
+      "id": 44,
+      "standId": 8,
+      "name": "Verdure impastellate",
+      "category": "antipasto",
+      "tag": "vegetariano",
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 42,
+      "standId": 8,
+      "name": "Lasagnetta bianca ragù e nocciole",
+      "category": "primo",
+      "tag": null,
+      "price": 6.5,
+      "description": ""
+    },
+    {
+      "id": 43,
+      "standId": 8,
+      "name": "Arrosticini",
+      "category": "secondo",
+      "tag": null,
+      "price": 6,
+      "description": ""
+    },
+    {
+      "id": 45,
+      "standId": 8,
+      "name": "A cannolo nostro ",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 46,
+      "standId": 9,
+      "name": "Roastbeef delle colline",
+      "category": "antipasto",
+      "tag": null,
+      "price": 6,
+      "description": ""
+    },
+    {
+      "id": 47,
+      "standId": 9,
+      "name": "Plin al sugo d'arrosto",
+      "category": "primo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 48,
+      "standId": 9,
+      "name": "Patata farcita ",
+      "category": "secondo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 49,
+      "standId": 9,
+      "name": "Panna cotta",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 50,
+      "standId": 10,
+      "name": "Antipasto misto piemontese",
+      "category": "antipasto",
+      "tag": null,
+      "price": 6,
+      "description": ""
+    },
+    {
+      "id": 51,
+      "standId": 10,
+      "name": "Hamburger di fassone, con insalata, cipolle caramellate e salse",
+      "category": "secondo",
+      "tag": null,
+      "price": 8,
+      "description": ""
+    },
+    {
+      "id": 52,
+      "standId": 10,
+      "name": "Meligamisù",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4.5,
+      "description": ""
+    },
+    {
+      "id": 53,
+      "standId": 10,
+      "name": "Torta nera",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    },
+    {
+      "id": 54,
+      "standId": 11,
+      "name": "Bistecche di biru in carpione",
+      "category": "antipasto",
+      "tag": null,
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 55,
+      "standId": 11,
+      "name": "Agnolotti di biru burro e salvia",
+      "category": "primo",
+      "tag": null,
+      "price": 7,
+      "description": ""
+    },
+    {
+      "id": 56,
+      "standId": 11,
+      "name": "Birulin con salse",
+      "category": "secondo",
+      "tag": null,
+      "price": 5,
+      "description": ""
+    },
+    {
+      "id": 57,
+      "standId": 11,
+      "name": "Semifreddo allo zabaione",
+      "category": "dolce",
+      "tag": "vegetariano",
+      "price": 4,
+      "description": ""
+    }
+  ]
+}
