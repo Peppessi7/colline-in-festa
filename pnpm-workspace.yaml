@@ -1,0 +1,8 @@
+minimumReleaseAge: 1440
+autoInstallPeers: false
+
+allowBuilds:
+  esbuild: true
+
+packages:
+  - .
